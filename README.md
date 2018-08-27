@@ -9,6 +9,6 @@ Steps:
  
 1. Download the folder and open it.
 
-2. Three files with endings .html, .css and .js are source codes. Rest of the files are pictures and icons to allow the website to work correctly.
+2. Two files with endings .html, .css are source codes. Rest of the files are pictures and icons to allow the page to work correctly.
 
 3. Open file ending with .html and press two times to view it in the browser. Otherwise open with Sublime Text or any other text editor to see the source code
